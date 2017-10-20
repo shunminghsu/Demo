@@ -1,0 +1,60 @@
+[{
+	"image_path": "http://via.placeholder.com/100x100?text=item1",
+	"title": "title1",
+	"description": "This is s sample description for testing Shop. This is s sample description for testing Shop. This is s sample description for testing Shop.",
+	"just_image": false
+},
+{
+	"image_path": "http://via.placeholder.com/300x150?text=item2",
+	"title": "",
+	"description": "",
+	"just_image": true
+},
+{
+	"image_path": "http://via.placeholder.com/100x100?text=item3",
+	"title": "title3",
+	"description": "This is s sample description for testing Shop. This is s sample description for testing Shop. This is s sample description for testing Shop.",
+	"just_image": false
+},
+{
+	"image_path": "http://via.placeholder.com/300x150?text=item4",
+	"title": "",
+	"description": "",
+	"just_image": true
+},
+{
+	"image_path": "http://via.placeholder.com/300x150?text=item5",
+	"title": "",
+	"description": "",
+	"just_image": true
+},
+{
+	"image_path": "http://via.placeholder.com/300x150?text=item6",
+	"title": "",
+	"description": "",
+	"just_image": true
+},
+{
+	"image_path": "http://via.placeholder.com/100x100?text=item7",
+	"title": "title7",
+	"description": "This is s sample description for testing Shop. This is s sample description for testing Shop. This is s sample description for testing Shop.",
+	"just_image": false
+},
+{
+	"image_path": "http://via.placeholder.com/300x150?text=item8",
+	"title": "",
+	"description": "",
+	"just_image": true
+},
+{
+	"image_path": "http://via.placeholder.com/100x100?text=item9",
+	"title": "title9",
+	"description": "This is s sample description for testing Shop. This is s sample description for testing Shop. This is s sample description for testing Shop.",
+	"just_image": false
+},
+{
+	"image_path": "http://via.placeholder.com/300x150?text=item10",
+	"title": "",
+	"description": "",
+	"just_image": true
+}]

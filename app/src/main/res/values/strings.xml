@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Testing project</string>
+
+    <string name="empty">Empty</string>
+    <string name="loading">Loading\u2026</string>
+
+    <string-array name="tabs_array">
+        <item>CITY GUIDE</item>
+        <item>SHOP </item>
+        <item>EAT</item>
+    </string-array>
+</resources>
